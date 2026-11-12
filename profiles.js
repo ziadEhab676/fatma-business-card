@@ -2,7 +2,7 @@ window.profiles = {
   "fatma-elkhayat": {
     slug: "fatma-elkhayat",
     name: "Fatma ElKhayat",
-    role: "Managing Director, Operations",
+    role: "Managing Director",
     company: "Enpal Egypt LLC",
     address: "Cairo, Egypt",
     website: "https://www.enpal.de",
